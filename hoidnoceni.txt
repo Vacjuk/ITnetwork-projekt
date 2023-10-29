@@ -1,0 +1,29 @@
+Ceníme práci na projektu! 🏆 Prohlédli jsme si kód a máme k němu následující poznámky:
+
+1. Pojmenování identifikátorů - OK až na třídu s názCeníme práci na projektu! 🏆 Prohlédli jsme si kód a máme k němu následující poznámky:
+
+1. Pojmenování identifikátorů -
+2. Dodržení principů SRP a SoC -
+3. Vhodný výběr datových typů -
+4. Formátování kódu -
+5. Duplicitní kód a nekonečné cykly -
+6. Validace vstupních dat -
+7. Logičnost a složitost -
+8. Komentáře -
+9. Celkové hodnocení -
+
+Doporučujeme případné výtky v kódu opravit, abyste jej mohli pak prezentovat budoucímu zaměstnavateli v co nejlepší kvalitě. 
+
+Pokud byste potřebovali s čímkoli pomoci, naplánujte si s námi konzultaci, rádi vám poradíme!em funkce, zvolil bych konkrétnější název.
+2. Dodržení principů SRP a SoC - Některé metody, které dělají víéce jak jednu věc by bylo vhodné více dekomponovat, jinak OK.
+3. Vhodný výběr datových typů - OK
+4. Formátování kódu - OK
+5. Duplicitní kód a nekonečné cykly - Bez duplicit a nekonečných cyklů. OK
+6. Validace vstupních dat - OK, ale klidně by jí šlo vytknout do vlůastzních funkcí nebo i tříd.
+7. Logičnost a složitost - OK, ale mohla být lepší dekompozice.
+8. Komentáře - Ok, ale mohli být podle normy Javadoc https://www.tutorialspoint.com/java/java_documentation.htm
+9. Celkové hodnocení -
+
+Doporučujeme případné výtky v kódu opravit, abyste jej mohli pak prezentovat budoucímu zaměstnavateli v co nejlepší kvalitě. 
+
+Pokud byste potřebovali s čímkoli pomoci, naplánujte si s námi konzultaci, rádi vám poradíme!
